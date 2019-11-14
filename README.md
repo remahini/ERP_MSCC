@@ -8,7 +8,7 @@ A novel consensus clustering and time-window selection mechanism has been develo
  
 Additionally, a repeated ANOVA measurement included to enhance the statistical analysis based on mean latency amplitude for the ERP of interest.
  
-Please add MST1.0 to MATLAB path to use functions provided by Andreas Trier Poulsen and cite the addressed researches in below as well:
+Please add MST1.0 to MATLAB path to use clustering functions provided by Andreas Trier Poulsen and cite the addressed researches in below as well:
 
 Download from:
 
