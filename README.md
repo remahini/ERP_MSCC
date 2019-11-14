@@ -17,16 +17,17 @@ Download from:
 https://github.com/DTUComputeCognitiveSystems/Microstate-EEGlab-toolbox/tree/master/MST1.0
  
 Please cite this toolbox as:
--Poulsen, A. T., Pedroni, A., Langer, N., &  Hansen, L. K. (2018). Microstate EEGlab toolbox: An introductionary guide. bioRxiv.
+
+- Poulsen, A. T., Pedroni, A., Langer, N., &  Hansen, L. K. (2018). Microstate EEGlab toolbox: An introductionary guide. bioRxiv.
  
--Andreas Trier Poulsen, atpo@dtu.dk Technical University of Denmark, Cognitive systems - February 2017
+- Andreas Trier Poulsen, atpo@dtu.dk Technical University of Denmark, Cognitive systems - February 2017
  
 Here is how to cite the current toolbox:
  
 Two manuscripts about this toolbox are under review please kindly cite
 this toolbox as:
  
--R.Mahini et al., "Determination of Time-Window of Event-Related Potential Using Multiple-Set Consensus Clustering" , Under review in the Journal of Neuroscience Methods.
+- R.Mahini et al., "Determination of Time-Window of Event-Related Potential Using Multiple-Set Consensus Clustering" , Under review in the Journal of Neuroscience Methods.
  
 - R.Mahini et al. ,"Optimal Number of Clusters by Measuring Similarity among Topographies for Spatio-temporal ERP Analysis", under review in Brain Topography journal.
 
