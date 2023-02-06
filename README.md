@@ -1,6 +1,6 @@
 # ERP_CC
 
-About ERP_MSCC Toolbox
+About ERP_CC Toolbox
 
 This toolbox provides an opportunity to process spatio-temporal ERP data using cluster analysis methodology.
  
